@@ -7,3 +7,6 @@
 
 # GitHub Stats
 [![Alexwcrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwcrafter&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Android Releases
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexwcrafter&repo=releases)](https://github.com/anuraghazra/github-readme-stats)
