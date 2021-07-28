@@ -7,7 +7,7 @@
 - I also try to make more DJ Sessions that will be Streamed to my [IceCast](https://ice.ayokaacr.de)
 
 # GitHub Stats
-[![Alexwcrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwcrafter&theme=synthwave&show_icons=true)](https://github.com/alexwcrafter/alexwcrafter)
+[![Alexwcrafter's GitHub stats](https://github.com/alexwcrafter/github-stats/blob/master/generated/overview.svg)](https://github.com/alexwcrafter/alexwcrafter)
 
 # Android Releases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexwcrafter&repo=releases&theme=synthwave)](https://github.com/alexwcrafter/releases)
