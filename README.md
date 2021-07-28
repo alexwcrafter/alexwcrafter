@@ -11,4 +11,4 @@
 ![](https://github.com/alexwcrafter/github-stats/blob/master/generated/languages.svg)
 
 # Android Releases
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexwcrafter&repo=releases&theme=synthwave)](https://github.com/alexwcrafter/releases)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=releases-1&theme=synthwave)](https://github.com/ACRBuilds/releases-1)
