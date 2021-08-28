@@ -14,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=releases&theme=synthwave)](https://github.com/ACRBuilds/releases/releases)
 
 # Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=releases&theme=synthwave)](https://github.com/ACRBuilds/releases-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=releases&theme=synthwave)](https://github.com/ACRBuilds/releases)
 [![android_device_motorola_sofiap](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=android_device_motorola_sofiap&theme=synthwave)](https://github.com/ACRBuilds/android_device_motorola_sofiap)
 [![android_kernel_motorola_sofiar](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=android_kernel_motorola_sofiar&theme=synthwave)](https://github.com/ACRBuilds/android_kernel_motorola_sofiar)
 [![sepolicy for LineageOS](https://github-readme-stats.vercel.app/api/pin/?username=ACRBuilds&repo=android_device_lineage_sepolicy&theme=synthwave)](https://github.com/ACRBuilds/android_device_lineage_sepolicy)
