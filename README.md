@@ -3,8 +3,8 @@
  I'm Alexwcrafter or also known as AyokaACR on most Social Medias.
 
 ### What do I do?
-- At the moment I'm trying to build some Android ROMs on my [Jenkins](http://ci.ayokaacr.tk)
-- I also try to make more DJ Sessions that will be Streamed to my [IceCast](https://ice.ayokaacr.tk)
+- At the moment I'm trying to build some Android ROMs on my [Jenkins](http://ci.ayokaacr.net)
+- I also try to make more DJ Sessions that will be Streamed to my [IceCast](https://ice.ayokaacr.net)
 
 # GitHub Stats
 [![Alexwcrafter's GitHub stats](https://github.com/alexwcrafter/github-stats/blob/master/generated/overview.svg)](https://github.com/alexwcrafter/)
