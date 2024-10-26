@@ -1,6 +1,6 @@
-# Alexwcrafter
+# Ayoka
 
- I'm Alexwcrafter or also known as AyokaACR on most Social Medias.
+ I'm AyokaACR.
 
 ### What do I do?
 - At the moment I'm trying to build some Android ROMs on my [Jenkins](http://ci.ayokaacr.net)
